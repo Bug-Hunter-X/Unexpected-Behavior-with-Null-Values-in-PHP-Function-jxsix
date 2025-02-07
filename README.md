@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in PHP related to loose typing and null value handling in functions. The `bug.php` file contains a function that unexpectedly handles null values and other types. The solution in `bugSolution.php` illustrates how to improve the function's robustness.
